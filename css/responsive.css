@@ -1,0 +1,9 @@
+@media only screen and (max-width: 800px) {
+  .search {display: none;}
+  .center_icon{display: none;}
+  .input-icon {display: none;}
+  .login_btn {display: none; }
+  .sign_btn {display: none; }
+  .icon {display: none; }
+
+  }
